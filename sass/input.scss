@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: "pc";
+    src: url("/fonts/pc.otf");
+}
+
+@font-face {
+    font-family: "inria";
+    src: url("/fonts/InriaSerif-Regular.ttf");
+}

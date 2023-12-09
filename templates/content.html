@@ -1,0 +1,22 @@
+{% extends "page.html" %}
+
+{% block title %}Welcome to Zola{% endblock title %}
+
+{% block content %}
+<section class="">
+  <div
+    class="min-h-screen bg-purecosmetics bg-cover bg-no-repeat bg-clip-content bg-top bg-fixed bg-center">
+    <!-- content container -->
+    <div class="h-full flex justify-left">
+      <!-- content div -->
+      <div class="">
+        <h1>{{ page.title }}</h1>
+        {{ page.content | safe }}
+      </div>
+      <!-- end content div -->
+    </div>
+    <!-- end content container -->
+  </div>
+</section>
+
+{% endblock content %}
