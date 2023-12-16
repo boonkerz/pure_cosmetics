@@ -1,7 +1,8 @@
 +++
-title = "Impressum"
+title = "impress"
 template = "content.html"
 +++
+# Impressum
 ## Diensteanbieter
 <p>Pure Cosmetics by Emy</p>
 <p>Emely Reuther</p>
