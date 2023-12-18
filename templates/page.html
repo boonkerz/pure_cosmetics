@@ -44,7 +44,7 @@
             </aside>
         
             <div class="flex-1">
-                <button class="fixed grid place-content-center w-30 h-30 p-0 mx-auto"
+                <button class="fixed place-content-center h-30 p-0 py-2 px-4 inline-flex items-center"
                     x-on:click="sidebarOpen = ! sidebarOpen"
                     ><svg
                     xmlns="http://www.w3.org/2000/svg"
@@ -52,7 +52,7 @@
                     viewBox="0 0 24 24"
                     stroke-width="1.5"
                     stroke="currentColor"
-                    class="w-10 h-10"
+                    class="w-10 h-10 mr-2"
                 >
                     <path
                     stroke="#404a3a"
@@ -60,7 +60,7 @@
                     stroke-linejoin="round"
                     d="M3.75 6.75h16.5M3.75 12h16.5M3.75 17.25h16.5"
                     />
-                </svg>
+                </svg><span>Menu</span>
                 </button>
                 <div class="">
                     {% block content %}{% endblock content %}
