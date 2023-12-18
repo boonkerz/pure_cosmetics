@@ -4,29 +4,36 @@
 
 @font-face {
     font-family: "pc";
-    src: url("/fonts/pc.otf");
+    src: url("fonts/pc.otf");
 }
 
 @font-face {
     font-family: "inria";
-    src: url("/fonts/InriaSerif-Regular.ttf");
+    src: url("fonts/InriaSerif-Regular.ttf");
 }
 
 .markdown-content {
     @apply m-10 p-8;
-    @apply bg-slate-100/70;
+    @apply font-inria;
+    @apply text-base;
 }
+
+.markdown-content {
+    @apply m-10 p-8;
+    @apply font-inria;
+    @apply text-base;
+}
+
 .markdown-content h1 {
-    @apply text-3xl;
+    @apply font-pc;
+    @apply text-9xl;
+}
+
+.markdown-content h2 {
+    @apply font-pc;
+    @apply text-7xl;
 }
 
 .markdown-content p {
-@apply mb-5;
-}
-
-.markdown-content a {
-@apply text-pink-500;
-}
-.markdown-content a:hover {
-@apply text-pink-400 underline;
+    @apply mb-5;
 }

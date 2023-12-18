@@ -1,6 +1,6 @@
 {
     "scripts": {
-      "build": "zola build && npx tailwindcss -i ./public/input.css -o ./public/style.css -m",
+      "build": "npx tailwindcss -i ./public/input.css -o ./public/style.css -m",
       "serve": "npx tailwindcss -i ./public/input.css -o ./public/style.css --watch",
       "test": "echo \"Error: no test specified\" && exit 1"
     },

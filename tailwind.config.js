@@ -2,9 +2,14 @@
 module.exports = {
     content: ['./templates/**/*.html', './static/**/*.{html,js}', './content/**/*.md'],
     theme: {
-      extend: {},
+      extend: {
+          colors: {
+              'base': '#404a3a'
+          }
+      },
       backgroundImage: {
-        'purecosmetics': 'url("/img/start.jpg")',
+        'purecosmetics': 'url("img/start.jpg")',
+        'news': 'url("img/news.jpg")',
       },
       fontFamily: {
         pc: ['pc', 'sans-serif'],
