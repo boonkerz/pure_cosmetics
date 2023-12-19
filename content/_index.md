@@ -1,5 +1,5 @@
 +++
-title = "First Zola page"
+title = "Pure Cosmetics by emy"
 +++
 # Hello world!
 

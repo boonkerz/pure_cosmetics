@@ -14,19 +14,19 @@
 
 .markdown-content {
     @apply m-2 p-2;
-    @apply md:m-5 md:p-5;
+    @apply md:m-8 md:p-8;
     @apply font-inria;
     @apply text-base;
 }
 
 .markdown-content h1 {
     @apply font-pc;
-    @apply text-9xl;
+    @apply text-h1;
 }
 
 .markdown-content h2 {
     @apply font-pc;
-    @apply text-7xl;
+    @apply text-h2;
 }
 
 .markdown-content p {

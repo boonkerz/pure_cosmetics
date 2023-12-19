@@ -3,6 +3,7 @@ title = "impress"
 template = "content.html"
 +++
 # Impressum & Datenschutz
+\\
 ### Diensteanbieter
 <p>Pure Cosmetics by Emy</p>
 <p>Emely Reuther</p>

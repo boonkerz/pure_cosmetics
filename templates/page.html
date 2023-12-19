@@ -30,8 +30,13 @@
                             </a>
                         </li>
                         <li>
+                            <a href="{{ config.base_url | safe }}/prices" class="flex p-3 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group">
+                                <span class="ms-1 font-inria">Preise</span>
+                            </a>
+                        </li>
+                        <li>
                             <a href="{{ config.base_url | safe }}/impress" class="flex p-3 text-gray-900 rounded-lg dark:text-white hover:bg-gray-100 dark:hover:bg-gray-700 group">
-                                <span class="ms-1 font-inria">Impress</span>
+                                <span class="ms-1 font-inria">Impressum</span>
                             </a>
                         </li>
                     </ul>
@@ -44,21 +49,21 @@
             </aside>
         
             <div class="flex-1">
-                <button class="fixed place-content-center h-30 p-0 py-2 px-4 inline-flex items-center"
+                <button class="fixed place-content-center h-30 p-0 py-2 px-2 items-center"
                     x-on:click="sidebarOpen = ! sidebarOpen"
                     ><svg
                     xmlns="http://www.w3.org/2000/svg"
                     fill="none"
-                    viewBox="0 0 24 24"
+                    viewBox="0 0 20 20"
                     stroke-width="1.5"
                     stroke="currentColor"
-                    class="w-10 h-10 mr-2"
+                    class="w-15 h-15"
                 >
                     <path
                     stroke="#404a3a"
                     stroke-linecap="round"
                     stroke-linejoin="round"
-                    d="M3.75 6.75h16.5M3.75 12h16.5M3.75 17.25h16.5"
+                    d="M0 6.75h20M0 12h20M0 17.25h20"
                     />
                 </svg><span>Menu</span>
                 </button>
