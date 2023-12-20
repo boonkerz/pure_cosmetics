@@ -3,6 +3,7 @@ title = "about me"
 template = "2col.html"
 [extra]
 col2_image = "aboutme.jpg"
+col1_image = ""
 +++
 Hey Hey!\
 \

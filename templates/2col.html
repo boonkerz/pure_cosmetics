@@ -3,24 +3,31 @@
 {% block title %}Welcome to Zola{% endblock title %}
 
 {% block content %}
-<section class="">
-  <div class="flex flex-row">
-    <div class="basis-1/2">
-      <div class="markdown-content">
+<div class="mt-10 md:mt-0 flex flex-col md:flex-row">
+  <div class="md:w-1/2">
+    <div class="markdown-content">
+      {% if page.extra.col1_image is matching("[.](jpg|png)$") %}
+      <img class="rounded" src="{{ config.base_url | safe }}/img/{{ page.extra.col1_image }}"/>
+      {% else %}
         <div class="">
           <h1>{{page.title}}</h1>
         </div>
         {{ page.content | safe }}
-      </div>
-    </div>
-    <div class="basis-1/2">
-      <div class="markdown-content">
-      {% if page.extra.col2_image is matching("[.](jpg|png)$") %}
-        <img class="rounded drop-shadow" src="{{ config.base_url | safe }}/img/{{ page.extra.col2_image }}"/>
       {% endif %}
-      </div>
     </div>
   </div>
-</section>
+  <div class="md:w-1/2">
+    <div class="markdown-content">
+    {% if page.extra.col2_image is matching("[.](jpg|png)$") %}
+      <img class="rounded" src="{{ config.base_url | safe }}/img/{{ page.extra.col2_image }}"/>
+    {% else %}
+      <div class="">
+        <h1>{{page.title}}</h1>
+      </div>
+      {{ page.content | safe }}
+    {% endif %}
+    </div>
+  </div>
+</div>
 
 {% endblock content %}

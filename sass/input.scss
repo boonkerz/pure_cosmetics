@@ -22,13 +22,20 @@
 .markdown-content h1 {
     @apply font-pc;
     @apply text-h1;
+    @apply md:text-mdh1;
 }
 
 .markdown-content h2 {
     @apply font-pc;
     @apply text-h2;
+    @apply md:text-mdh2;
 }
 
 .markdown-content p {
     @apply mb-5;
+}
+
+img[alt~="Image Right"] {
+    @apply object-right;
+    @apply w-1;
 }
