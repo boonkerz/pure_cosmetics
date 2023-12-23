@@ -5,8 +5,9 @@ module.exports = {
         fontSize: {
             h1: ['6.0rem', { lineHeight: '5rem' }],
             mdh1: ['16.0rem', { lineHeight: '10rem' }],
-            h2: ['4.0rem', { lineHeight: '6rem' }],
+            h2: ['3.8rem', { lineHeight: '6rem' }],
             mdh2: ['8.0rem', { lineHeight: '6rem' }],
+            author: ['0.8rem', { lineHeight: '1rem' }],
             base: ['1.2rem', { lineHeight: '1.8rem' }],
         },
         extend: {

@@ -23,3 +23,4 @@ Dieses Impressum gilt auch für die folgenden Social-Media-Präsenzen und Online
 <p>Hinweise auf Rechtsverstöße: Sollten Sie innerhalb unseres Internetauftritts Rechtsverstöße bemerken, bitten wir Sie uns auf diese hinzuweisen. Wir werden rechtswidrige Inhalte und Links nach Kenntnisnahme unverzüglich entfernen.</p>
 
 <p class="seal"><a href="https://datenschutz-generator.de/" title="Rechtstext von Dr. Schwenke - für weitere Informationen bitte anklicken." target="_blank" rel="noopener noreferrer nofollow">Erstellt mit kostenlosem Datenschutz-Generator.de von Dr. Thomas Schwenke</a></p>
+<p class="seal">Bilder von Claudia <a href="https://www.claudiaplamann.com/" title="Bilder von Claudia Plamann Fotografie" class="underline" target="_blank">Plamann Fotografie</a></p>

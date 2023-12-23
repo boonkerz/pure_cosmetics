@@ -15,3 +15,5 @@ Grüne Straße 4<br/>
 <p>E-Mail-Adresse: pure-cosmetics@by-emy.de<br/>
 Webseite: https://by-emy.de<br/>
 Telefon: +49 173 4303258</p>
+
+<p class="seal">Bilder von Claudia <a href="https://www.claudiaplamann.com/" title="Bilder von Claudia Plamann Fotografie" class="underline" target="_blank">Plamann Fotografie</a></p>

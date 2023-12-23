@@ -8,7 +8,7 @@ template = "content.html"
 <h5 class="font-bold">Augenbrauen zupfen:</h5>
 Behandlungsdauer: 20 min<br/>
 <br/>
-Diese Behandlung beinhaltet das Vermessen und Zupfen deiner Augenbrauen. Um eine Form zu kreieren, die mit deinen Gesichtszügen harmoniert, wird diese unter zu Hilfenahme von zwei Techniken ausgemessen. Bei der Vermessung werden die Augenbrauen an deinen Mund, deine Nase und an deine Augen angepasst. Alle aus der Form fallenden Härchen werden danach sorgfältig mit entfernt. 
+Diese Behandlung beinhaltet das Vermessen und Zupfen deiner Augenbrauen. Um eine Form zu kreieren, die mit deinen Gesichtszügen harmoniert, wird diese unter zu Hilfenahme von zwei Techniken ausgemessen. Bei der Vermessung werden die Augenbrauen an deinen Mund, deine Nase und an deine Augen angepasst. Alle aus der Form fallenden Härchen werden danach sorgfältig entfernt. 
 </div>
 
 <div class="p-5 bg-price2">

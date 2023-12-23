@@ -3,6 +3,7 @@ title = "about me"
 template = "2col.html"
 [extra]
 col2_image = "aboutme.jpg"
+col2_slider = ["slide1.jpg","slide2.jpg","slide3.jpg"]
 col1_image = ""
 +++
 Hey Hey!\
@@ -20,7 +21,7 @@ Scheu dich nicht, mich zu kontaktieren, falls noch eine Frage unbeantwortet blie
 Ich freue mich sehr von dir zu hören!\
 \
 <div class="text-center">
-<h2>Schönheit ist Macht</h2>
-<h2>Lächeln ist ihr Schwert</h2>
+<h2>Schönheit ist Macht;</h2>
+<h2>das Lächeln ist ihr Schwert</h2>
 </div>
-<div class="text-end">-John Ray</div>
+<div class="text-end text-author">-John Ray</div>

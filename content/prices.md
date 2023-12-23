@@ -4,10 +4,10 @@ template = "content.html"
 +++
 \
 \
-<div class="bg-price1 w-full">
+<div class="bg-price1 w-full text-author md:text-base">
     <h5 class="p-5 font-bold text-white">Augenbrauen</h5>
-    <div class="grid grid-cols-2 gap-4 p-5 text-white">
-        <div>
+    <div class="grid grid-cols-4 grid-flow-row-dense gap-2 p-5 text-white">
+        <div class="col-span-3">
             Augenbrauen zupfen<br/>
             Augenbrauen zupfen & färben<br/>
             Augenbrauenlifting<br/>
@@ -26,10 +26,10 @@ template = "content.html"
             80 €</div>
     </div>
 </div>
-<div class="bg-price2 w-full mt-5">
+<div class="bg-price2 w-full mt-5 text-author md:text-base">
     <h5 class="p-5 font-bold text-white">Wimpern</h5>
-    <div class="grid grid-cols-2 gap-4 p-5 text-white">
-        <div>
+    <div class="grid grid-cols-4 gap-2 p-5 text-white">
+        <div class="col-span-3">
             Wimpernlifting<br/>
             <br/>
             Wimpernverlängerung:<br/>
@@ -67,10 +67,10 @@ template = "content.html"
         </div>
     </div>
 </div>
-<div class="bg-price3 w-full mt-5">
+<div class="bg-price3 w-full mt-5 text-author md:text-base">
     <h5 class="p-5 font-bold text-white">Lippen</h5>
-    <div class="grid grid-cols-2 gap-4 p-5 text-white">
-        <div>
+    <div class="grid grid-cols-4 gap-2 p-5 text-white">
+        <div class="col-span-3">
             Lippenpigmentierung<br/>
             Auffrischen innerhalb 12 Monaten                                                                                           
         </div>
@@ -80,10 +80,10 @@ template = "content.html"
         </div>
     </div>
 </div>
-<div class="bg-price4 w-full mt-5">
+<div class="bg-price4 w-full mt-5 text-author md:text-base">
     <h5 class="p-5 font-bold text-white">Stylings</h5>
-    <div class="grid grid-cols-2 gap-4 p-5 text-white">
-        <div>
+    <div class="grid grid-cols-4 gap-2 p-5 text-white">
+        <div class="col-span-3">
             Haarstyling<br/>
             Make Up                                                                                          
         </div>
@@ -93,10 +93,10 @@ template = "content.html"
         </div>
     </div>
 </div>
-<div class="bg-price5 w-full mt-5">
+<div class="bg-price5 w-full mt-5 text-author md:text-base">
     <h5 class="p-5 font-bold text-white">Kombipakete</h5>
-    <div class="grid grid-cols-2 gap-4 p-5 text-white">
-        <div>
+    <div class="grid grid-cols-4 gap-2 p-5 text-white">
+        <div class="col-span-3">
             Wimpern- und Augenbrauenlifting<br/>
             Augenbrauen- und Lippenpigmentierung<br/>
             Hairstyling und Make Up                                                                                           

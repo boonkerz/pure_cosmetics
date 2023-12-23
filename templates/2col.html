@@ -18,14 +18,38 @@
   </div>
   <div class="md:w-1/2">
     <div class="markdown-content">
-    {% if page.extra.col2_image is matching("[.](jpg|png)$") %}
-      <img class="rounded" src="{{ config.base_url | safe }}/img/{{ page.extra.col2_image }}"/>
-    {% else %}
-      <div class="">
-        <h1>{{page.title}}</h1>
-      </div>
-      {{ page.content | safe }}
-    {% endif %}
+      {% if page.extra.col2_slider %}
+        <div x-data="imageSlider" class="">
+          <div class="">
+            <template x-for="(image, index) in images">
+              <div x-show="currentIndex == index && setTimeout(() => { currentIndex = currentIndex == images.length-1 ? 0 : currentIndex + 1}, 5000)" x-transition:enter="transition transform duration-300" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" x-transition:leave="transition transform duration-300" x-transition:leave-start="opacity-100" x-transition:leave-end="opacity-0" class="">
+                <img :src="image" alt="image" class="rounded" />
+              </div>
+            </template>
+          </div>
+        </div>
+        <script>
+          document.addEventListener("alpine:init", () => {
+            Alpine.data("imageSlider", () => ({
+              currentIndex: 0,
+              images: [
+                {% for image in page.extra.col2_slider %}
+                    "{{ config.base_url | safe }}/img/{{ image }}",
+                {% endfor %}
+              ]
+            }));
+          });
+        </script>
+      {%else%}
+        {% if page.extra.col2_image is matching("[.](jpg|png)$") %}
+          <img class="rounded" src="{{ config.base_url | safe }}/img/{{ page.extra.col2_image }}"/>
+        {% else %}
+          <div class="">
+            <h1>{{page.title}}</h1>
+          </div>
+          {{ page.content | safe }}
+        {% endif %}
+      {% endif %}
     </div>
   </div>
 </div>
