@@ -4,6 +4,7 @@ template = "2col.html"
 [extra]
 col2_image = "newsv2.jpg"
 col1_image = ""
+loop = 1
 +++
 Falls du noch etwas mehr über mich und meine Arbeit erfahren möchtest, schau gerne auf meiner Instagramseite names purecosmetics.byemy vorbei.\
 Dort lade ich regelmäßig Beiträge und Storys mit verschiedenen Inhalten rund um meine Arbeit hoch.

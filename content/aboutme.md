@@ -5,6 +5,7 @@ template = "2col.html"
 col2_image = "aboutme.jpg"
 col2_slider = ["slide1.jpg","slide2.jpg","slide3.jpg"]
 col1_image = ""
+loop = 1
 +++
 Hey Hey!\
 \
