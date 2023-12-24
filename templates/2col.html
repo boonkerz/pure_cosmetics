@@ -4,7 +4,7 @@
 
 {% block content %}
 <div class="mt-10 md:mt-0 flex flex-col md:flex-row">
-  <div class="md:w-1/2">
+  <div class="md:w-1/2" style="z-index: 2">
     <div class="markdown-content">
       {% if page.extra.col1_image is matching("[.](jpg|png)$") %}
       <img class="rounded" src="{{ config.base_url | safe }}/img/{{ page.extra.col1_image }}"/>

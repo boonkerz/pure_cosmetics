@@ -11,6 +11,12 @@
         <link rel="icon" type="image/x-icon" href="/img/impress.jpg">
     </head>
     <body class="text-base">
+    <div class="absolute bg-contain bg-no-repeat bg-center w-4/6 h-screen right-5"
+         style="z-index: 1; background-image:linear-gradient(rgba(255,255,255,0.1), rgba(255,255,255,0.1)), url(img/bg.svg)">
+    </div>
+    <div class="absolute bg-contain bg-no-repeat bg-center w-4/6 h-screen right-5"
+         style="z-index: -1; background-image:linear-gradient(rgba(255,255,255,0.1), rgba(255,255,255,0.1)), url(img/bg1.svg)">
+    </div>
         <div x-data="{ sidebarOpen: false }" class="flex overflow-x-hidden h-screen w-screen">
             <aside :class="{ '-ml-64': !sidebarOpen }"  class="flex-shrink-0 w-64 flex flex-col border-r sticky top-0" aria-label="Sidebar">
                 <div class="h-full overflow-y-auto pl-5 pr-5">

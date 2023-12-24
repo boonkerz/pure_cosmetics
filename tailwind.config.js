@@ -23,7 +23,8 @@ module.exports = {
         backgroundImage: {
             'purecosmetics': 'url("img/start.jpg")',
             'news': 'url("img/news.jpg")',
-            'header': 'url("test.svg")',
+            'test': 'url("img/bg.svg")',
+            'test1': 'url("img/bg1.svg")',
         },
         fontFamily: {
         pc: ['pc', 'sans-serif'],
