@@ -20,7 +20,7 @@ Wimperzange Ade! Das Wimpernlifting ist eine Methode, um die Wimpern auf natürl
 
 <div class="bg-price3 flex flex-col md:flex-row relative text-white">
     <div class="relative md:w-1/5">
-        <img class="w-full" src="/img/wimpern.jpg" alt="">
+        <img class="w-full" src="img/wimpern.jpg" alt="">
     </div>
     <div class="flex-1 justify-between p-4 leading-normal">
         <h5 class="font-bold">Wimpernverlängerung:</h5>

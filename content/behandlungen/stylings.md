@@ -31,7 +31,7 @@ Dann ist ein Aufpreis aufgrund der Anfahrtskosten abhängig von der Strecke mög
 Unabhängig von dem Anlass variiert der Preis je nach Frisur und Aufwand.
     </div>
     <div class="relative md:w-1/5">
-        <img class="w-full" src="/img/styling.jpg" alt="">
+        <img class="w-full" src="img/styling.jpg" alt="">
     </div>
 </div>
 

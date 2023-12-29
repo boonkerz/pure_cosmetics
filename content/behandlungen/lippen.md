@@ -17,7 +17,7 @@ Eine oberflächliche Betäubung der zu behandelten Stelle ist jederzeit ohne Inj
 
 <div class="bg-price3 flex flex-col md:flex-row relative text-white">
     <div class="relative md:w-1/5">
-        <img class="w-full" src="/img/lippen.jpg" alt="">
+        <img class="w-full" src="img/lippen.jpg" alt="">
     </div>
     <div class="flex-1 justify-between p-4 leading-normal">
         <h5 class="font-bold">Auffrischung der Lippenpigmentierung (Permanent Make-Up):</h5>
