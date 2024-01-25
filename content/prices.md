@@ -108,4 +108,5 @@ template = "content.html"
         </div>
     </div>
 </div>
-<p>Bitte beachte, dass sich die Preise des Auffüllens der Wimpernverlängerung  an dem Arbeitsaufwand und nicht nach einer verstrichenen Zeit richten.</p>
+<p class="mt-5">Bitte beachte, dass sich die Preise des Auffüllens der Wimpernverlängerung  an dem Arbeitsaufwand und nicht nach einer verstrichenen Zeit richten.</p>
+<p class="mt-5">Stand: 01.01.2024</p>

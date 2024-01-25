@@ -5,22 +5,22 @@ template = "content.html"
 \
 \
 <div class="p-5">
-<h5 class="font-bold">Augenbrauen zupfen:</h5>
-Behandlungsdauer: 20 min<br/>
+<h5 class="font-bold">Augenbrauen zupfen</h5>
+Behandlungsdauer: ca. 20 min<br/>
 <br/>
 Diese Behandlung beinhaltet das Vermessen und Zupfen deiner Augenbrauen. Um eine Form zu kreieren, die mit deinen Gesichtszügen harmoniert, wird diese unter zu Hilfenahme von zwei Techniken ausgemessen. Bei der Vermessung werden die Augenbrauen an deinen Mund, deine Nase und an deine Augen angepasst. Alle aus der Form fallenden Härchen werden danach sorgfältig entfernt. 
 </div>
 
 <div class="p-5 bg-price2">
-<h5 class="font-bold">Augenbrauen zupfen und färben:</h5>
-Behandlungsdauer: 30 min<br/>
+<h5 class="font-bold">Augenbrauen zupfen und färben</h5>
+Behandlungsdauer: ca. 30 min<br/>
 <br/>
 Zum Vermessen und Zupfen kommt bei dieser Behandlung das Färben deiner Augenbrauen hinzu. Der für deine Augenbrauen stimmige Farbton wird durch das Vermischen verschiedener Nuancen und durch die Einwirkzeit bestimmt. Mit bis zu 6 Wochen Sichtbarkeit besteht ein sehr langanhaltendes Farbergebnis.
 </div>
 
 <div class="p-5">
-<h5 class="font-bold">Augenbrauenlifting:</h5>
-Behandlungsdauer: 90 min<br/>
+<h5 class="font-bold">Augenbrauenlifting</h5>
+Behandlungsdauer: ca. 90 min<br/>
 <br/>
 Hierbei werden deine Augenbrauen vermessen, geliftet, gezupft und anschließend gefärbt. Bei dem Lifting wird jedes einzelne Härchen in Form gelegt und mit einem nur für die Behandlungszeit aufgetragenem Kleber fixiert. Durch die danach aufgebrachten Lotionen, bei denen die Einwirkzeit individuell auf dich angepasst wird, werden die Augenbrauen dauerhaft in der zuvor ausgewählten Form gehalten. Im Anschluss erfolgt das Entfernen der aus der Form herausragenden Härchen und das Färben deiner Augenbrauen. Auch hier wird ein für deine Augenbrauen stimmiger Farbton ausgewählt. Zum Abschluss werden die Farbreste sowie der überschüssige Kleber entfernt. Das Ergebnis ist bis zu 10 Wochen sichtbar.
 <br/><br/>
@@ -28,8 +28,8 @@ Hierbei werden deine Augenbrauen vermessen, geliftet, gezupft und anschließend 
 </div>
 
 <div class="p-5">
-<h5 class="font-bold">Augenbrauenpigmentierung (Permanent Make-Up):</h5>
-Behandlungsdauer: 1. Sitzung: 3,5 h, 2. Sitzung: 2 h<br/>
+<h5 class="font-bold">Augenbrauenpigmentierung (Permanent Make-Up)</h5>
+Behandlungsdauer: 1. Sitzung: ca. 3,5 h, 2. Sitzung: ca. 2 h<br/>
 Preis: (inkl. zwei Sitzungen & Pflege zur Nachbehandlung)<br/>
 <br/>
 Diese Behandlung beinhaltet das Vermessen, Zupfen und Pigmentieren deiner Augenbrauen. Um eine Form zu kreieren, die mit deinen Gesichtszügen harmoniert, wird diese unter zu Hilfenahme von zwei Techniken ausgemessen. Bei der Vermessung werden die Augenbrauen an deinen Mund, deine Nase und an deine Augen angepasst. Alle aus der Form fallenden Härchen werden danach sorgfältig entfernt.<br/>
@@ -43,8 +43,8 @@ Eine oberflächliche Betäubung der zu behandelten Stelle ist jederzeit ohne Inj
 
 <div class="bg-price3 flex flex-col md:flex-row relative text-white">
     <div class="flex-1 justify-between p-4 leading-normal">
-        <h5 class="font-bold">Auffrischung der Augenbrauenpigmentierung (Permanent Make-Up):</h5>
-        Behandlungsdauer: 2,5 h<br/>
+        <h5 class="font-bold">Auffrischung der Augenbrauenpigmentierung (Permanent Make-Up)</h5>
+        Behandlungsdauer: ca. 2,5 h<br/>
         Peis: (inkl. eine Sitzung & Pflege zur Nachbehandlung)<br/>
         <br/>
         Eine Auffrischung wird innerhalb von 18 Monaten angeboten. Die Behandlung beinhaltet das Vermessen, Zupfen und Pigmentieren der Augenbrauen. Das Auffrischen wird in einer Sitzung abgehalten. Diese Behandlung ist kein muss, kann jedoch nötig sein, da durch die Hauterneuerung und äußere Einflüsse (wie UV-Strahlung) die Pigmentierung verblasst.<br/>
@@ -56,8 +56,8 @@ Eine oberflächliche Betäubung der zu behandelten Stelle ist jederzeit ohne Inj
 </div>
 
 <div class="p-5">
-<h5 class="font-bold">Entfernung der Augenbrauenpigmentierung:</h5>
-Behandlungsdauer: 3 h<br/>
+<h5 class="font-bold">Entfernung der Augenbrauenpigmentierung</h5>
+Behandlungsdauer: ca. 3 h<br/>
 Preis: (pro Sitzung, inkl. Pflege zur Nachbehandlung bei der 1. Sitzung)<br/>
 <br/>
 Eine Entfernung der Pigmentierung kann beispielweise bei einer unkorrekten Form, Farbe oder bei nur teilweise eingelagerten Farbpigmenten notwendig sein. Da eine Einlagerung der Pigmente in der obersten Hautschicht beispielsweise in den Anfängen des Permanent Make-Ups nicht immer vorausgesetzt wurde und dies auch heute nicht durch alle Stylistinnen praktiziert wird, kann eine Anzahl der Sitzungen nicht im Voraus bestimmt werden. Jedoch beläuft sich die Anzahl aus Erfahrungswerten auf 2-3 Sitzungen.<br/>

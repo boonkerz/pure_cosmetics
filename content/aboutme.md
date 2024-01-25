@@ -3,7 +3,7 @@ title = "about me"
 template = "2col.html"
 [extra]
 col2_image = "aboutme.jpg"
-col2_slider = ["slide1.jpg","slide2.jpg","slide3.jpg"]
+col2_slider = ["slide2.jpg","slide3.jpg"]
 col1_image = ""
 loop = 1
 +++

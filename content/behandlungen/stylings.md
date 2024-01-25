@@ -17,7 +17,7 @@ Ebenfalls spielen die Farbtöne eine wichtige Rolle, sodass ich mich sehr freue,
 
 <div class="bg-price1 flex flex-col md:flex-row relative ">
     <div class="flex-1 justify-between p-4 leading-normal">
-        <h5 class="font-bold">Haarstyling:</h5>
+        <h5 class="font-bold">Haarstyling</h5>
         Behandlungsdauer: variiert je nach Frisur<br/>
         Preis: (inkl. Beratung und Probestyling)<br/>
         <br/>
@@ -31,7 +31,7 @@ Dann ist ein Aufpreis aufgrund der Anfahrtskosten abhängig von der Strecke mög
 Unabhängig von dem Anlass variiert der Preis je nach Frisur und Aufwand.
     </div>
     <div class="relative md:w-1/5">
-        <img class="w-full" src="img/styling.jpg" alt="">
+        <img class="w-full" src="/img/styling.jpg" alt="">
     </div>
 </div>
 

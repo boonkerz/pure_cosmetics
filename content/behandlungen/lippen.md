@@ -5,8 +5,8 @@ template = "content.html"
 \
 \
 <div class="p-5">
-<h5 class="font-bold">Lippenpigmentierung (Permanent Make-Up):</h5>
-Behandlungsdauer: 1. Sitzung: 3,5 h, 2. Sitzung: 2 h<br/>
+<h5 class="font-bold">Lippenpigmentierung (Permanent Make-Up)</h5>
+Behandlungsdauer: 1. Sitzung: ca. 3,5 h, 2. Sitzung: ca. 2 h<br/>
 Preis: (inkl. zwei Sitzungen & Pflege zur Nachbehandlung)<br/>
 <br/>
 Diese Behandlung beinhaltet das Vermessen und Pigmentieren deiner Lippen. Um eine schöne Form zu kreieren, werden diese ausgemessen und an die bereits vorhandene Lippenform angepasst. Ein Überzeichnen der eigenen Lippenkontur und somit das optische Vergrößern der Lippen ist nur minimal möglich.<br/>
@@ -17,11 +17,11 @@ Eine oberflächliche Betäubung der zu behandelten Stelle ist jederzeit ohne Inj
 
 <div class="bg-price3 flex flex-col md:flex-row relative text-white">
     <div class="relative md:w-1/5">
-        <img class="w-full" src="img/lippen.jpg" alt="">
+        <img class="w-full" src="/img/lippen.jpg" alt="">
     </div>
     <div class="flex-1 justify-between p-4 leading-normal">
-        <h5 class="font-bold">Auffrischung der Lippenpigmentierung (Permanent Make-Up):</h5>
-        Behandlungsdauer: 2,5 h<br/>
+        <h5 class="font-bold">Auffrischung der Lippenpigmentierung (Permanent Make-Up)</h5>
+        Behandlungsdauer: ca. 2,5 h<br/>
         Peis: (inkl. eine Sitzung & Pflege zur Nachbehandlung)<br/>
         <br/>
         Eine Auffrischung wird innerhalb von 12 Monaten angeboten. Die Behandlung beinhaltet das Vermessen und Pigmentieren der Lippen. Das Auffrischen wird in einer Sitzung abgehalten. Diese Behandlung ist kein muss, kann jedoch nötig sein, da durch Hauterneuerung und äußere Einflüsse (wie UV-Strahlung) die Pigmentierung verblasst.<br/>

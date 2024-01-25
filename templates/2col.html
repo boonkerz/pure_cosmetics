@@ -18,12 +18,12 @@
   </div>
   <div class="md:w-1/2 relative ">
     {% if page.extra.loop %}
-    <div class="absolute bg-test1 bg-contain bg-no-repeat bg-center w-full h-full right-5 -top-20 md:-top-40 pointer-events-none"
+    <!--<div class="absolute bg-test1 bg-contain bg-no-repeat bg-center w-full h-full right-5 -top-20 md:-top-40 pointer-events-none"
          style="z-index: -1;">
-    </div>
-    <div class="absolute bg-test bg-contain bg-no-repeat bg-center w-full h-full right-5 -top-20 md:-top-40 pointer-events-none"
+    </div>-->
+    <!--<div class="absolute bg-test bg-contain bg-no-repeat bg-center w-full h-full right-5 -top-20 md:-top-40 pointer-events-none"
          style="z-index: 1;">
-    </div>
+    </div>-->
     {% endif %}
 
     <div class="markdown-content">
@@ -32,7 +32,7 @@
           <div class="">
             <template x-for="(image, index) in images">
               <div x-show="currentIndex == index && setTimeout(() => { currentIndex = currentIndex == images.length-1 ? 0 : currentIndex + 1}, 5000)" x-transition:enter="transition transform duration-300" x-transition:enter-start="opacity-0" x-transition:enter-end="opacity-100" x-transition:leave="transition transform duration-300" x-transition:leave-start="opacity-100" x-transition:leave-end="opacity-0" class="flex justify-center items-center">
-                <img :src="image" alt="image" class=" w-4/6" />
+                <img :src="image" alt="image" class="rounded-3xl w-4/6" />
               </div>
             </template>
           </div>

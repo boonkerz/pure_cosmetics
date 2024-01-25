@@ -11,7 +11,6 @@ template = "content.html"
 <p>17033 Neubrandenburg</p>
 
 <h3 id="m56">Kontaktmöglichkeiten</h3>E-Mail-Adresse: <p>pure-cosmetics@by-emy.de</p>
-Telefon: <p>+49 173 4303258</p>
 
 <h3 id="m172">Social Media und andere Onlinepräsenzen</h3>
 Dieses Impressum gilt auch für die folgenden Social-Media-Präsenzen und Onlineprofile: <p><a href="https://www.instagram.com/purecosmetics.byemy" target="_blank">https://www.instagram.com/purecosmetics.byemy</a></p>
