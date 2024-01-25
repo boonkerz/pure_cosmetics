@@ -21,7 +21,8 @@ module.exports = {
             }
         },
         backgroundImage: {
-            'purecosmetics': 'url("img/start.jpg")',
+            'pc': 'url("img/start.jpg")',
+            'pc-mo': 'url("img/start_mobile.jpg")',
             'news': 'url("img/news.jpg")',
             'test': 'url("img/bg.svg")',
             'test1': 'url("img/bg1.svg")',

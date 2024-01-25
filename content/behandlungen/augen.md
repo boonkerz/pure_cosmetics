@@ -51,7 +51,7 @@ Eine oberflächliche Betäubung der zu behandelten Stelle ist jederzeit ohne Inj
         Eine oberflächliche Betäubung der zu behandelten Stelle ist jederzeit ohne Injektion möglich!
     </div>
     <div class="relative md:w-1/5">
-        <img class="w-full" src="img/augenbraun.jpg" alt="">
+        <img class="w-full" src="/img/augenbraun.jpg" alt="">
     </div>
 </div>
 
