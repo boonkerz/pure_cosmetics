@@ -25,10 +25,7 @@ Ebenfalls spielen die Farbtöne eine wichtige Rolle, sodass ich mich sehr freue,
         In einem vorherigen Probestyling werden alle Wünsche und Vorstellungen besprochen.<br/>
         Bei diesem Termin wird deine Frisur passend zur Haarstruktur und-länge ausgewählt.<br/>
         Ebenfalls ist es möglich und sogar erwünscht, bereits vorhandenen Haarschmuck in die Frisur einzubinden.<br/>
-        So holen wir gemeinsam das Beste aus deinen Haaren heraus!<br/>
-        Am tatsächlichen Termin kannst du entweder meine Räumlichkeiten aufsuchen oder dir ein wenig Stress ersparen, sodass ich mich auf die Reise zu dir begebe.<br/>
-Dann ist ein Aufpreis aufgrund der Anfahrtskosten abhängig von der Strecke möglich.<br/>
-Unabhängig von dem Anlass variiert der Preis je nach Frisur und Aufwand.
+        So holen wir gemeinsam das Beste aus deinen Haaren heraus!
     </div>
     <div class="relative md:w-1/5">
         <img class="w-full" src="/img/styling.jpg" alt="">
