@@ -19,6 +19,10 @@
     @apply text-base;
 }
 
+.small {
+    @apply text-xs;
+}
+
 .markdown-content h1 {
     @apply font-pc;
     @apply text-h1;
@@ -40,3 +44,4 @@ img[alt~="Image Right"] {
     @apply object-right;
     @apply w-1;
 }
+
